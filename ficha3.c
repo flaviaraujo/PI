@@ -68,7 +68,7 @@ void pascal (int v[], int N){
     }
 }
 
-//b)
+//b) NOTA: não tive o cuidado dos espaços do triângulo porque não costuma sair isso no teste
 void print_pascal (int v[], int N){
     int i, j;
 
